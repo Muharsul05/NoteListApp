@@ -1,7 +1,8 @@
-package com.magarusik.notelistapp
+package com.magarusik.notelistapp.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.magarusik.notelistapp.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
